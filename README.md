@@ -56,6 +56,7 @@ Graduating from the Faculty of Computer Engineering
 
 
 
+
 ### Sobre mim:
 Olá, meu nome é Michel, sou apaixonado por tecnologia, atualmente estou migrando da área de infraestrutura para programação
 
@@ -110,3 +111,7 @@ Ferramentas
 Projetos
 
 Contatos
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MichelAngelo7&count_private=true)
