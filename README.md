@@ -50,7 +50,7 @@ Graduating from the Faculty of Computer Engineering
 - Jupyter Notebook
 
    ##### Projects
-
+- https://michelangelo7.github.io/CJS/
    ##### Contacts
 
 
@@ -109,6 +109,9 @@ Ferramentas
 - Jupyter Notebook
 
 Projetos
+
+Calculadora de juridica simples 
+- https://michelangelo7.github.io/CJS/
 
 Contatos
 
