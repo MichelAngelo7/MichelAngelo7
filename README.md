@@ -109,8 +109,7 @@ Ferramentas
 - Jupyter Notebook
 
 Projetos
-
-Calculadora de juridica simples 
+ 
 - https://michelangelo7.github.io/CJS/
 
 Contatos
